@@ -4798,7 +4798,8 @@ small {
 
 .card .card-reveal .card-title {
     cursor: pointer;
-    display: block
+    display: block;
+    margin-bottom: 25px;
 }
 
 #toast-container {
